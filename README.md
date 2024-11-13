@@ -17,5 +17,5 @@ I'm a passionate Backend developer from Thailand, currently studying both at uni
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/P2KL"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" alt="P2KL's GitHub stats" /></a>
+<a href="http://www.github.com/P2KL"><img src="https://github-readme-stats.vercel.app/api?username=P2KL&show_icons=true&theme=dracula" alt="P2KL's GitHub stats" /></a>
 <a href="http://www.github.com/P2KL"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P2KL" alt="P2KL's GitHub stats" /></a>
