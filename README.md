@@ -1,10 +1,10 @@
 Hi 👋 My name is Pakawat Romtubtim
 ================================
 
-Backend Developer
+Software Developer
 ------------------
 
-I'm a passionate Backend developer from Thailand, currently studying both at university and through self-learning.<br> I’m dedicated to expanding my skills and building innovative solutions.
+I'm a passionate Software developer from Thailand, currently studying both at university and through self-learning.<br> I’m dedicated to expanding my skills and building innovative solutions.
 
 * 🎓  I'm a student at Songkhla Rajabhat University, currently pursuing a degree in computer science.
 * ❤️  I love writing JavaScript and building fun experiments or mini games that might make people laugh.
